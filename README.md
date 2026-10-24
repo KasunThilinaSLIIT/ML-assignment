@@ -1,4 +1,3 @@
-```markdown
 # Predicting Credit Card Default: Logistic Regression vs Random Forest
 
 Group assignment for **Fundamentals of Machine Learning**, MSc in Artificial Intelligence,
@@ -6,11 +5,10 @@ Sri Lanka Institute of Information Technology (SLIIT).
 
 | Member | Student ID | Contribution |
 |---|---|---|
-| H.K.T Bamunuge | MS26930022 | <e.g. data cleaning, EDA, logistic regression> |
-| C.P Madubashana | MS26929200 | <e.g. feature engineering, random forest, evaluation> |
+| H.K.T Bamunuge | MS26930022 | Data cleaning, EDA, logistic regression |
+| C.P Madubashana | MS26929200 | Feature engineering, random forest, evaluation |
 
 **Video demo:** https://youtu.be/WDd_jv7EDCc
-**GitHub repository:** https://github.com/KasunThilinaSLIIT/ML-assignment.git
 **Report:** `ML-assignment-report.pdf`
 
 ## Problem
@@ -27,12 +25,11 @@ https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 * `data/default of credit card clients.xls` is the original UCI file; `data/credit_default.csv` is the same data converted to CSV.
 
 ## Repository structure
-```
-credit_default_analysis.ipynb   full analysis: EDA, preprocessing, both models, evaluation
-data/                           raw dataset (xls) and CSV copy
-figures/                        all figures used in the report
-ML-assignment-report.pdf        final report (source code in Appendix A)
-```
+credit_default_analysis.ipynb full analysis: EDA, preprocessing, both models, evaluation
+data/ raw dataset (xls) and CSV copy
+figures/ all figures used in the report
+ML-assignment-report.pdf final report (source code in Appendix A)
+
 
 ## How to run
 ```bash
@@ -63,4 +60,3 @@ strongest predictor in both models. Full discussion, limitations and future work
 
 ## Tools
 Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter Notebook
-```
