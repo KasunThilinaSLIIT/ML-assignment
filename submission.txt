@@ -1,0 +1,3 @@
+Dataset: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+GitHub repository: https://github.com/KasunThilinaSLIIT/ML-assignment.git
+YouTube presentation: https://youtu.be/WDd_jv7EDCc
